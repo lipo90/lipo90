@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @lipo90
 - 👀 I’m interested in AI, games, hardware, and machine learning.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning how to make a game!
 - 📫 How to reach me: lillypoon29@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I played cello for 8 years.
